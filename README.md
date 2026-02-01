@@ -7,15 +7,15 @@ This collection brings together research, case studies, and strategic insights o
 
 ## 📂 Contents
 
-- **[DDRiVE-M White Paper](ddrive-m-whitepaper.html)**  
+- **[DDRiVE-M White Paper](ddrive-m.html)**  
   *Intelligence Cycle System for Organizational Resilience*  
   AI-powered resilience management platform integrating compliance frameworks (RA 10121, ISO 31000, ISO 22301, UNDRR, DILG) with real-time monitoring and adaptive leadership practices.
 
-- **[Strategic Plan Pro White Paper](strategic-plan-pro-whitepaper.html)**  
+- **[Strategic Plan Pro White Paper](strategic-plan-pro.html)**  
   *AI-Powered Strategic Planning for Execution Excellence*  
   Progressive web app (PWA) that unifies diagnosis, planning, execution, and monitoring into one streamlined workflow, accelerating strategy cycles and ensuring disciplined execution.
 
-- **[Real-Time Leadership Case Study](rtl-casestudy.html)**  
+- **[Real-Time Leadership White Paper](rtl.html)**  
   *Mindful Decision-Making for SME Resilience in Asia*  
   Demonstrates how leaders apply real-time leadership practices—pausing, option generation, validation, and execution with feedback loops—to sustain resilience under pressure.
 
